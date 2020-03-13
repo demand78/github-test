@@ -3,9 +3,13 @@ github-test
 
 okwon89.master
 
-add new feature 1
-add new feature 2
-add new feature 3
+my repo
+- add new feature 1
+- add new feature 2
+- add new feature 3
 
+origin repo
+- upstream a
+- upstream b
 
 
