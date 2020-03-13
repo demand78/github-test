@@ -3,7 +3,7 @@ github-test
 
 okwon89.master
 
-upstream a
-upstream b
+- upstream a
+- upstream b
 
 
