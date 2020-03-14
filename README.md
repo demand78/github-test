@@ -9,3 +9,5 @@
 - master commit 2
 
 - [feature3] inital commit
+- [feature3] 1
+
