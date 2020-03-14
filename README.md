@@ -5,5 +5,6 @@
 [feature1] add code 3
 [feature1] add no-edit
 
-master commit 1
-master commit 2
+- master commit 1
+- master commit 2
+
